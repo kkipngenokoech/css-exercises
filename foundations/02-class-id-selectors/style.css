@@ -1,0 +1,16 @@
+.oddnumber {
+    background-color:#ffc0cb;
+    font-family: Verdana, "dejaVu Sans", sans-serif;
+}
+.fontsizeclass{
+    font-size: 24px;
+}
+#secondeven {
+    color: #0000ff;
+    font-size: 36px;
+}
+#fourtheven {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
