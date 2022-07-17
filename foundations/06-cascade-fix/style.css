@@ -10,6 +10,9 @@
 .para {
   font-size: 22px;
 }
+.para.firstredtext {
+  font-size: 36px;  
+}
 
 .confirm {
   background: green;
@@ -18,12 +21,14 @@
 } 
 
 .button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
+  /* background-color: rgb(255, 255, 255); */
+  /* color: rgb(0, 0, 0); */
   font-size: 20px;
 }
-
-.child {
+.cancel {
+  background-color: white;
+}
+.text .child {
   color: red;
   font-size: 14px;
 }
